@@ -1,4 +1,5 @@
 # Project Lyrics
+![GitHub](https://img.shields.io/github/license/eskabore/lyriks?color=green&style=plastic)
 
 Welcome to my project, Project Lyrics! As a certified full-stack web developer with expertise in Node.js and React.js, I am proud to showcase my work and collaborate with an amazing team to build an elegant musical lyrics application.
 
