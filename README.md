@@ -1,7 +1,6 @@
 # Lyriks
 
-![GitHub](https://img.shields.io/github/license/eskabore/lyriks?color=green&style=plastic)
-
+![GitHub](https://img.shields.io/github/license/eskabore/lyriks?label=license)
 
 Lyriks is a modern and user-friendly website that enables users to quickly search for the lyrics of their favorite songs. The website has been built using ReactJS, Redux Toolkit, and Rapid API for music fetching. Tailwind and Vite were also used for styling and building, respectively.
 
