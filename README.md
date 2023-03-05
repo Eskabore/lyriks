@@ -61,8 +61,3 @@ REACT_APP_RAPIDAPI_KEY=<your_api_key_here>
 
 Lyriks was built by Jean-Luc KABORE-TURQUIN and is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-
-
-<img src="https://user-images.githubusercontent.com/45074124/222971873-1cec7782-7917-484b-9313-8c91dcabd183.png" width="500" height="auto">
-
-<img src="https://user-images.githubusercontent.com/45074124/222975431-5d2329eb-1520-4a6f-83e1-de50aaa62253.png" width="250" height="auto">
